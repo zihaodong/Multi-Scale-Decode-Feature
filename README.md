@@ -1,3 +1,3 @@
 # Multi-Scale Feature Decode and Fuse Model with CRF Layer for Boundary Detection
-By Zihao Dong, Ruixun Zhang and Xiuli Shao
+#By Zihao Dong, Ruixun Zhang and Xiuli Shao
 The code will be released soon after ICONIP 2018 ...
