@@ -1,2 +1,2 @@
-# Multi-Scale Feature Decode and Fuse Model with CRF Layer for Boundary Detection
+# Multi-Scale Feature Decode and Fuse Model for Boundary Detection
 The code will be released soon after ICONIP 2018 ...
