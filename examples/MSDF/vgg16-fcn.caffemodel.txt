@@ -1,0 +1,1 @@
+Please download the vgg16-fcn.caffemodel as a pretraining model.
