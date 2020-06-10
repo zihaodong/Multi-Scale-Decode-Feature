@@ -9,7 +9,7 @@ It is the caffe implementation of MSDF model based on "Multi-scale feature decod
 ## Citation
 If you find Shift-MIL pooling application is useful in your research, please consider to cite:
 
-	@inproceedings{dong2019surface,
+	@inproceedings{dong2018multi-scale,
 	  title={Multi-scale feature decode and fuse model with crf layer for boundary detection},
 	  author={Dong, Zihao et.al},
 	  booktitle={International Conference on Neural Information Processing},
@@ -17,7 +17,7 @@ If you find Shift-MIL pooling application is useful in your research, please con
 	  year={2018}
 	}
  
- 	@inproceedings{dong2019surface,
+ 	@inproceedings{dong2019learning,
 	  title={Learning Deep Structured Multi-Scale Features for crisp and object occlusion edge detection},
 	  author={Dong, Zihao et.al},
 	  booktitle={International Conference on Artificial Neural Networks},
