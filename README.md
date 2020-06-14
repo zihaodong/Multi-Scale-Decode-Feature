@@ -4,7 +4,7 @@ It is the caffe implementation of MSDF model based on "Multi-scale feature decod
 
 ## The architecture of MSDF
 
-![](MSDF_arch.png){:zoom="20%"}
+<img src="MSDF_arch.png" style="zoom:20%">
 
 ## Citation
 If you find Shift-MIL pooling application is useful in your research, please consider to cite:
